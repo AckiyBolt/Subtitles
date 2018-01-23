@@ -13,19 +13,19 @@ YCbCr Matrix: TV.601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Corinthian Medium,75,&H00FFFFFF,&H000019FF,&H00121212,&HA0393939,-1,0,0,0,100,100,0,0,1,3.75,2.25,2,120,120,53,1
-Style: Alternate-Bottom,Corinthian Medium,75,&H00FFFFFF,&H000019FF,&H00303C67,&HA0393939,-1,0,0,0,100,100,0,0,1,3.75,2.25,2,120,120,135,1
-Style: Alternate-Top,Corinthian Medium,75,&H00D1EEFF,&H000019FF,&H00303C67,&H80393939,-1,0,0,0,70,70,0,0,1,3.75,2.25,8,120,120,45,1
-Style: Song-Romaji,Corinthian Medium,70,&H00F2EBB2,&H00D4BC00,&H00646000,&H82393939,-1,-1,0,0,100,100,0,0,1,3,0,7,120,120,45,1
-Style: Song-Hiragana,Corinthian Medium,50,&H00F2EBB2,&H00D4BC00,&H00646000,&H82393939,-1,-1,0,0,100,100,0,0,1,3,0,7,120,120,45,1
-Style: Song-Ukrainian,Corinthian Medium,70,&H00C9E6C8,&H0050AF4C,&H00205E1B,&H80393939,-1,-1,0,0,100,100,0,0,1,3,0,3,120,120,45,1
-Style: Credits,Corinthian Medium,40,&H00E9F8F1,&H0039DCCD,&H00177782,&H00393939,0,0,0,0,100,100,0,0,1,2,0,6,15,15,27,1
-Style: Opening-Romaji,Corinthian Medium,70,&H00F5E5F3,&H00C868BA,&H0A8C144A,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,8,15,15,21,1
-Style: Opening-Hiragana,Corinthian Medium,50,&H00F5E5F3,&H00C868BA,&H0A8C144A,&H00393939,0,-1,0,0,100,100,0,0,1,3,0,8,15,15,21,1
-Style: Opening-Ukrainian,Corinthian Medium,70,&H00BCCCFF,&H004370FF,&H000C36BF,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,2,15,15,24,1
-Style: Episode-Title,Corinthian Medium,100,&H00FFFFFF,&H000019FF,&H0A000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,8,15,15,27,1
-Style: Ending-English,Corinthian Medium,70,&H00FDF2E3,&H00F6B564,&H00A1470D,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,8,15,15,27,1
-Style: Ending-Ukrainian,Corinthian Medium,70,&H00E9F5E8,&H0084C781,&H00205E1B,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,2,15,15,27,1
+Style: Default,Calibri,90,&H00FFFFFF,&H000019FF,&H00121212,&HA0393939,-1,0,0,0,100,100,0,0,1,3,2,2,120,120,40,204
+Style: Alternate-Bottom,Calibri,90,&H00FFFFFF,&H000019FF,&H00303C67,&HA0393939,-1,0,0,0,100,100,0,0,1,3,2,2,120,120,125,204
+Style: Alternate-Top,Calibri,70,&H00D1EEFF,&H000019FF,&H00303C67,&H80393939,-1,0,0,0,100,100,0,0,1,3,2,8,120,120,20,204
+Style: Song-Romaji,Calibri,70,&H00F2EBB2,&H00D4BC00,&H00646000,&H82393939,-1,-1,0,0,100,100,0,0,1,2,0,7,120,120,45,204
+Style: Song-Hiragana,Calibri,50,&H00F2EBB2,&H00D4BC00,&H00646000,&H82393939,-1,-1,0,0,100,100,0,0,1,2,0,7,120,120,45,204
+Style: Song-Ukrainian,Calibri,70,&H00C9E6C8,&H006ABB66,&H00205E1B,&H82393939,-1,-1,0,0,100,100,0,0,1,2,0,3,120,120,20,204
+Style: Episode-Title,Calibri,100,&H00FFFFFF,&H000019FF,&H0A000000,&H00000000,-1,0,0,0,170,170,0,0,1,2,0,8,15,15,27,204
+Style: Credits,Calibri,50,&H00E9F8F1,&H0039DCCD,&H00177782,&H00393939,0,0,0,0,100,100,0,0,1,2,0,6,15,15,27,204
+Style: Opening-Romaji,Calibri,100,&H00F5E5F3,&H00C868BA,&H0A8C144A,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,8,15,15,21,204
+Style: Opening-Hiragana,Calibri,60,&H00F5E5F3,&H00C868BA,&H0A8C144A,&H00393939,0,-1,0,0,100,100,0,0,1,2,0,8,15,15,21,204
+Style: Opening-Ukrainian,Calibri,100,&H00BCCCFF,&H004370FF,&H000C36BF,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,2,15,15,24,204
+Style: Ending-English,Calibri,100,&H00FDF2E3,&H00F6B564,&H00A1470D,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,8,15,15,27,204
+Style: Ending-Ukrainian,Calibri,100,&H00E9F5E8,&H0084C781,&H00205E1B,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,2,15,15,27,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -178,7 +178,7 @@ Dialogue: 4,0:10:30.94,0:10:34.86,Default,,0,0,0,,Вофейлі, Дайорай
 Dialogue: 0,0:10:35.10,0:10:37.60,Default,,0,0,0,,Ці чотири селища спалили за одну ніч.
 Dialogue: 4,0:10:38.04,0:10:42.20,Default,,0,0,0,,Грейваку дісталося найбільше, там взагалі ніхто не мав би вижити.
 Dialogue: 4,0:10:42.56,0:10:46.18,Default,,0,0,0,,Тому я й казав, що ми мали дочекатись доки воно саме не розвалиться!
-Dialogue: 0,0:10:46.40,0:10:50.45,Default,,0,0,0,,Відтепер нашим пріоритетом буде захист кожного селища.
+Dialogue: 0,0:10:46.40,0:10:50.45,Default,,0,0,0,,Відтепер нашим пріоритетом має стати захист кожного з селищ.
 Dialogue: 0,0:10:51.30,0:10:52.25,Default,,0,0,0,,Гаразд.
 Dialogue: 4,0:10:52.75,0:10:56.24,Default,,0,0,0,,Прикро, що перша за 50 років велика нарада закінчується саме так.
 Dialogue: 4,0:10:57.71,0:11:00.19,Default,,0,0,0,,Отож, якщо немає заперечень...
@@ -356,30 +356,30 @@ Dialogue: 4,0:21:08.78,0:21:09.80,Default,,0,0,0,,Добре.
 Dialogue: 4,0:21:09.90,0:21:11.39,Default,,0,0,0,,Полетіли, Нессо!
 Dialogue: 4,0:21:11.64,0:21:13.13,Default,,0,0,0,,Круто!
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Hiru no Hoshi - Azuma Hitomi {От і настав момент, якого я очікував довгих 9 серій із болем у серці}
-Dialogue: 1,0:15:46.39,0:15:51.42,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k41}Da{\k55}shi{\k38}wa{\k56}su{\k69}re{\k23}ta {\k51}te{\k46}ga{\k45}mi {\k79}ga{\k47}
-Dialogue: 1,0:15:52.00,0:15:56.93,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k47}Da{\k42}re{\k51}ka {\k41}no {\k77}te {\k21}to{\k45}do{\k44}ku {\k48}ko{\k77}ro
-Dialogue: 1,0:15:57.51,0:16:02.45,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k49}Hi{\k35}ga{\k58}sa {\k45}ku{\k71}ru{\k20}ri{\k41}ma{\k41}wa{\k61}shi{\k73}ta
-Dialogue: 1,0:16:02.45,0:16:07.29,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k34}So{\k27}ra {\k25}ni {\k22}wa {\k93}hi{\k49}ru {\k45}no {\k36}ho{\k153}shi
-Dialogue: 0,0:16:08.60,0:16:13.45,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k45}Yu{\k55}bi{\k26}ki{\k19}ri {\k40}shi{\k49}ta {\k47}yu{\k45}bi {\k72}wo {\k21}ka{\k27}mi{\k19}ki{\k20}ri
-Dialogue: 0,0:16:13.45,0:16:18.61,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k20}{\k93}Sa{\k54}tte {\k35}i{\k59}ku {\k43}ka{\k42}ge {\k170}wo
-Dialogue: 0,0:16:19.70,0:16:24.72,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k42}O{\k77}i{\k19}ka{\k20}ke{\k28}te {\k22}wa {\k71}yo{\k43}a{\k70}ke {\k25}ni {\k21}ma{\k24}yo{\k22}i
-Dialogue: 0,0:16:24.72,0:16:29.95,Song-Romaji,,0,0,0,,{\k53}{\fad(200,200)}Hi{\k46}gu{\k45}re {\k43}ni {\k47}ha{\k49}gu{\k47}re{\k193}ta
-Dialogue: 0,0:16:30.64,0:16:35.74,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k60}Hi{\k46}ru {\k47}no {\k79}ho{\k58}shi {\k184}ni{\k41}
-Dialogue: 0,0:16:35.74,0:16:41.39,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k51}Ne{\k55}ga{\k41}i {\k36}wo {\k45}sa{\k56}sa{\k46}gu {\k138}na{\k92}ra
-Dialogue: 0,0:16:41.85,0:16:46.75,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k46}It{\k43}su{\k51}ka {\k89}no {\k49}ma{\k180}do{\k51}
-Dialogue: 0,0:16:46.75,0:16:52.46,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k44}A{\k52}ka{\k40}ri {\k49}to{\k39}mo{\k53}shi{\k46}te{\k231}ta
-Dialogue: 1,0:15:46.39,0:15:51.42,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k41}だ{\k55}し{\k38}わ{\k56}す{\k69}れ{\k23}た {\k51}て{\k46}が{\k45}み {\k79}が{\k47}
-Dialogue: 1,0:15:52.00,0:15:56.93,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k47}だ{\k42}れ{\k51}か {\k41}の {\k77}て {\k21}と{\k45}ど{\k44}く {\k48}こ{\k77}ろ
-Dialogue: 1,0:15:57.51,0:16:02.45,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k49}ひ{\k35}が{\k58}さ {\k45}く{\k71}る{\k20}り{\k41}ま{\k41}わ{\k61}し{\k73}た
-Dialogue: 1,0:16:02.45,0:16:07.29,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k34}そ{\k27}ら {\k25}に {\k22}わ {\k93}ひ{\k49}る {\k45}の {\k36}ほ{\k153}し
-Dialogue: 0,0:16:08.60,0:16:13.45,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k45}ゆ{\k55}び{\k26}き{\k19}り {\k40}し{\k49}た {\k47}ゆ{\k45}び {\k72}を {\k21}か{\k27}み{\k19}き{\k20}り
-Dialogue: 0,0:16:13.45,0:16:18.61,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k20}{\k93}さ{\k54}って {\k35}い{\k59}く {\k43}か{\k42}げ {\k170}を
-Dialogue: 0,0:16:19.70,0:16:24.72,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k42}お{\k77}い{\k19}か{\k20}け{\k28}て {\k22}わ {\k71}よ{\k43}あ{\k70}け {\k25}に {\k21}ま{\k24}よ{\k22}い
-Dialogue: 0,0:16:24.72,0:16:29.95,Song-Hiragana,,0,0,0,,{\k53}{\fad(200,200)}ひ{\k46}ぐ{\k45}れ {\k43}に {\k47}は{\k49}ぐ{\k47}れ{\k193}た
-Dialogue: 0,0:16:30.64,0:16:35.74,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k60}ひ{\k46}る {\k47}の {\k79}ほ{\k58}し {\k184}に{\k41}
-Dialogue: 0,0:16:35.74,0:16:41.39,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k51}ね{\k55}が{\k41}い {\k36}を {\k45}さ{\k56}さ{\k46}ぐ {\k138}な{\k92}ら
-Dialogue: 0,0:16:41.85,0:16:46.75,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k46}いt{\k43}す{\k51}か {\k89}の {\k49}ま{\k180}ど{\k51}
-Dialogue: 0,0:16:46.75,0:16:52.46,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k44}あ{\k52}か{\k40}り {\k49}と{\k39}も{\k53}し{\k46}て{\k231}た
+Dialogue: 1,0:15:46.39,0:15:51.42,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k41}Da{\k55}shi{\k38}wa{\k56}su{\kf69}re{\k23}ta {\k51}te{\k46}ga{\k45}mi {\kf79}ga{\k47}
+Dialogue: 1,0:15:52.00,0:15:56.93,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k47}Da{\k42}re{\k51}ka {\k41}no {\kf77}te {\k21}to{\k45}do{\k44}ku {\k48}ko{\kf77}ro
+Dialogue: 1,0:15:57.51,0:16:02.45,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k49}Hi{\k35}ga{\k58}sa {\k45}ku{\kf71}ru{\k20}ri{\k41}ma{\k41}wa{\k61}shi{\kf73}ta
+Dialogue: 1,0:16:02.45,0:16:07.29,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k34}So{\k27}ra {\k25}ni {\k22}wa {\kf93}hi{\k49}ru {\k45}no {\k36}ho{\kf153}shi
+Dialogue: 0,0:16:08.60,0:16:13.45,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k45}Yu{\k55}bi{\k26}ki{\k19}ri {\k40}shi{\k49}ta {\k47}yu{\k45}bi {\kf72}wo {\k21}ka{\k27}mi{\k19}ki{\k20}ri
+Dialogue: 0,0:16:13.45,0:16:18.61,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k20}{\kf93}Sa{\k54}tte {\k35}i{\k59}ku {\k43}ka{\k42}ge {\kf170}wo
+Dialogue: 0,0:16:19.70,0:16:24.72,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k42}O{\kf77}i{\k19}ka{\k20}ke{\k28}te {\k22}wa {\kf71}yo{\k43}a{\kf70}ke {\k25}ni {\k21}ma{\k24}yo{\k22}i
+Dialogue: 0,0:16:24.72,0:16:29.95,Song-Romaji,,0,0,0,,{\k53}{\fad(200,200)}Hi{\k46}gu{\k45}re {\k43}ni {\k47}ha{\k49}gu{\k47}re{\kf193}ta
+Dialogue: 0,0:16:30.64,0:16:35.74,Song-Romaji,,0,0,0,,{\fad(200,200)}{\kf60}Hi{\k46}ru {\k47}no {\kf79}ho{\k58}shi {\kf184}ni{\k41}
+Dialogue: 0,0:16:35.74,0:16:41.39,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k51}Ne{\k55}ga{\k41}i {\k36}wo {\k45}sa{\k56}sa{\k46}gu {\kf138}na{\kf92}ra
+Dialogue: 0,0:16:41.85,0:16:46.75,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k46}It{\k43}su{\k51}ka {\kf89}no {\k49}ma{\kf180}do{\k51}
+Dialogue: 0,0:16:46.75,0:16:52.46,Song-Romaji,,0,0,0,,{\fad(200,200)}{\k44}A{\k52}ka{\k40}ri {\k49}to{\k39}mo{\k53}shi{\k46}te{\kf231}ta
+Dialogue: 1,0:15:46.39,0:15:51.42,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k41}だ{\k55}し{\k38}わ{\k56}す{\kf69}れ{\k23}た {\k51}て{\k46}が{\k45}み {\kf79}が{\k47}
+Dialogue: 1,0:15:52.00,0:15:56.93,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k47}だ{\k42}れ{\k51}か {\k41}の {\kf77}て {\k21}と{\k45}ど{\k44}く {\k48}こ{\kf77}ろ
+Dialogue: 1,0:15:57.51,0:16:02.45,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k49}ひ{\k35}が{\k58}さ {\k45}く{\kf71}る{\k20}り{\k41}ま{\k41}わ{\k61}し{\kf73}た
+Dialogue: 1,0:16:02.45,0:16:07.29,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k34}そ{\k27}ら {\k25}に {\k22}わ {\kf93}ひ{\k49}る {\k45}の {\k36}ほ{\kf153}し
+Dialogue: 0,0:16:08.60,0:16:13.45,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k45}ゆ{\k55}び{\k26}き{\k19}り {\k40}し{\k49}た {\k47}ゆ{\k45}び {\kf72}を {\k21}か{\k27}み{\k19}き{\k20}り
+Dialogue: 0,0:16:13.45,0:16:18.61,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k20}{\kf93}さ{\k54}って {\k35}い{\k59}く {\k43}か{\k42}げ {\kf170}を
+Dialogue: 0,0:16:19.70,0:16:24.72,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k42}お{\kf77}い{\k19}か{\k20}け{\k28}て {\k22}わ {\kf71}よ{\k43}あ{\kf70}け {\k25}に {\k21}ま{\k24}よ{\k22}い
+Dialogue: 0,0:16:24.72,0:16:29.95,Song-Hiragana,,0,0,0,,{\k53}{\fad(200,200)}ひ{\k46}ぐ{\k45}れ {\k43}に {\k47}は{\k49}ぐ{\k47}れ{\kf193}た
+Dialogue: 0,0:16:30.64,0:16:35.74,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\kf60}ひ{\k46}る {\k47}の {\kf79}ほ{\k58}し {\kf184}に{\k41}
+Dialogue: 0,0:16:35.74,0:16:41.39,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k51}ね{\k55}が{\k41}い {\k36}を {\k45}さ{\k56}さ{\k46}ぐ {\kf138}な{\kf92}ら
+Dialogue: 0,0:16:41.85,0:16:46.75,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k46}いt{\k43}す{\k51}か {\kf89}の {\k49}ま{\kf180}ど{\k51}
+Dialogue: 0,0:16:46.75,0:16:52.46,Song-Hiragana,,0,0,0,,{\fad(200,200)}{\k44}あ{\k52}か{\k40}り {\k49}と{\k39}も{\k53}し{\k46}て{\kf231}た
 Dialogue: 0,0:15:46.39,0:15:51.42,Song-Ukrainian,,0,0,0,,{\fad(200,200)}Як лист мною забутий
 Dialogue: 0,0:15:52.00,0:15:56.93,Song-Ukrainian,,0,0,0,,{\fad(200,200)}Потрапить у руки чиїсь
 Dialogue: 0,0:15:57.51,0:16:02.45,Song-Ukrainian,,0,0,0,,{\fad(200,200)}Парасольки дістануться неба
@@ -436,7 +436,7 @@ Dialogue: 1,0:21:28.35,0:21:34.48,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf18
 Dialogue: 1,0:21:34.48,0:21:42.11,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf58}{\kf120}Во{\kf43}на {\kf101}і{\kf59}шла {\kf41}по {\kf84}са{\kf203}до{\kf54}чку
 Dialogue: 1,0:21:42.11,0:21:48.99,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf90}А {\kf107}ні{\kf102}женьки {\kf0}- {\kf106}на{\kf117}че {\kf101}сніг{\kf65}
 Dialogue: 1,0:21:48.99,0:21:55.87,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf146}"Люби {\kf139}мене {\kf181}милий, {\kf163}ле{\kf59}гко"
-Dialogue: 1,0:21:56.17,0:22:02.91,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf73}"Як {\kf88}ли{\kf30}сття {\kf91}на {\kf69}гі{\kf42}лці {\kf128}ро{\kf153}сте"
+Dialogue: 1,0:21:56.17,0:22:02.91,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf73}"Як {\kf88}ли{\kf30}стя {\kf91}на {\kf69}гі{\kf42}лці {\kf128}ро{\kf153}сте"
 Dialogue: 1,0:22:02.91,0:22:10.08,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf32}{\kf87}Я ж {\kf89}був {\kf167}молодий, {\kf88}неро{\kf158}зу{\kf67}мний{\kf29}
 Dialogue: 1,0:22:10.08,0:22:17.08,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf85}І {\kf80}"ні" {\kf187}сказав {\kf40}їй {\kf77}на {\kf231}те
 Dialogue: 1,0:22:30.65,0:22:37.93,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf32}{\kf87}Я ж {\kf89}був {\kf167}молодий, {\kf88}неро{\kf158}зу{\kf67}мний{\kf29}

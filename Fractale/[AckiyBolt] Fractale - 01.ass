@@ -13,17 +13,17 @@ YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Corinthian Medium,75,&H00FFFFFF,&H000019FF,&H00121212,&HA0393939,-1,0,0,0,100,100,0,0,1,3.75,2.25,2,120,120,53,1
-Style: Alternate-Bottom,Corinthian Medium,75,&H00FFFFFF,&H000019FF,&H00303C67,&HA0393939,-1,0,0,0,100,100,0,0,1,3.75,2.25,2,120,120,135,1
-Style: Alternate-Top,Corinthian Medium,75,&H00D1EEFF,&H000019FF,&H00303C67,&H80393939,-1,0,0,0,70,70,0,0,1,3.75,2.25,8,120,120,45,1
-Style: Song-Ukrainian,Corinthian Medium,60,&H00F2EBB2,&H00D4BC00,&H00646000,&H82393939,-1,-1,0,0,100,100,0,0,1,3,0,8,120,120,45,1
-Style: Episode-Title,Corinthian Medium,100,&H00FFFFFF,&H000019FF,&H0A000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,8,15,15,27,1
-Style: Credits,Corinthian Medium,40,&H00E9F8F1,&H0039DCCD,&H00177782,&H00393939,0,0,0,0,100,100,0,0,1,2,0,6,15,15,27,1
-Style: Opening-Romaji,Corinthian Medium,70,&H00F5E5F3,&H00C868BA,&H0A8C144A,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,8,15,15,21,1
-Style: Opening-Hiragana,Corinthian Medium,50,&H00F5E5F3,&H00C868BA,&H0A8C144A,&H00393939,0,-1,0,0,100,100,0,0,1,3,0,8,15,15,21,1
-Style: Opening-Ukrainian,Corinthian Medium,70,&H00BCCCFF,&H004370FF,&H000C36BF,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,2,15,15,24,1
-Style: Ending-English,Corinthian Medium,70,&H00FDF2E3,&H00F6B564,&H00A1470D,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,8,15,15,27,1
-Style: Ending-Ukrainian,Corinthian Medium,70,&H00E9F5E8,&H0084C781,&H00205E1B,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,2,15,15,27,1
+Style: Default,Calibri,90,&H00FFFFFF,&H000019FF,&H00121212,&HA0393939,-1,0,0,0,100,100,0,0,1,3,2,2,120,120,40,204
+Style: Alternate-Bottom,Calibri,90,&H00FFFFFF,&H000019FF,&H00303C67,&HA0393939,-1,0,0,0,100,100,0,0,1,3,2,2,120,120,125,204
+Style: Alternate-Top,Calibri,70,&H00D1EEFF,&H000019FF,&H00303C67,&H80393939,-1,0,0,0,100,100,0,0,1,3,2,8,120,120,20,204
+Style: Song-Ukrainian,Calibri,70,&H00F2EBB2,&H00D4BC00,&H00646000,&H82393939,-1,-1,0,0,100,100,0,0,1,3,0,8,120,120,20,204
+Style: Episode-Title,Calibri,100,&H00FFFFFF,&H000019FF,&H0A000000,&H00000000,-1,0,0,0,170,170,0,0,1,2,0,8,15,15,27,204
+Style: Credits,Calibri,50,&H00E9F8F1,&H0039DCCD,&H00177782,&H00393939,0,0,0,0,100,100,0,0,1,2,0,6,15,15,27,204
+Style: Opening-Romaji,Calibri,100,&H00F5E5F3,&H00C868BA,&H0A8C144A,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,8,15,15,21,204
+Style: Opening-Hiragana,Calibri,60,&H00F5E5F3,&H00C868BA,&H0A8C144A,&H00393939,0,-1,0,0,100,100,0,0,1,2,0,8,15,15,21,204
+Style: Opening-Ukrainian,Calibri,100,&H00BCCCFF,&H004370FF,&H000C36BF,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,2,15,15,24,204
+Style: Ending-English,Calibri,100,&H00FDF2E3,&H00F6B564,&H00A1470D,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,8,15,15,27,204
+Style: Ending-Ukrainian,Calibri,100,&H00E9F5E8,&H0084C781,&H00205E1B,&H00393939,-1,-1,0,0,100,100,0,0,1,3,0,2,15,15,27,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -32,7 +32,7 @@ Dialogue: 3,0:00:24.75,0:00:27.84,Default,,0,0,0,,Повернешся до до
 Dialogue: 0,0:00:28.20,0:00:29.15,Default,,0,0,0,,Угу.
 Dialogue: 3,0:00:29.41,0:00:33.12,Default,,0,0,0,,Клейне, не клади лікті на стіл коли їси.
 Dialogue: 3,0:00:33.12,0:00:35.12,Default,,0,0,0,,Ти казав про блошиний ринок?
-Dialogue: 3,0:00:35.12,0:00:36.83,Default,,0,0,0,,Упевнений, що це не якесь кубло бандюків?
+Dialogue: 3,0:00:35.12,0:00:36.88,Default,,0,0,0,,Упевнений, що це не якесь кубло бандюків?
 Dialogue: 3,0:00:37.19,0:00:39.06,Default,,0,0,0,,Нічого такого.
 Dialogue: 3,0:00:39.29,0:00:42.17,Default,,0,0,0,,І у кого ти такий дивак?
 Dialogue: 3,0:00:42.17,0:00:44.54,Default,,0,0,0,,Певно в батька, зважаючи як його по світу носить.
@@ -364,9 +364,9 @@ Dialogue: 1,0:07:17.45,0:07:24.89,Opening-Ukrainian,,0,0,0,,{\fad(200,200)}За�
 Dialogue: 1,0:07:24.89,0:07:31.46,Opening-Ukrainian,,0,0,0,,{\fad(200,200)}Та все ж, щоб не хотіла, жаги порив невпинний
 Dialogue: 1,0:07:31.46,0:07:40.00,Opening-Ukrainian,,0,0,0,,{\fad(200,200)}Тебе шукати буде
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ending / Down by the Salley Gardens - Azuma Hitomi / Переклад: В. Коптілов
-Dialogue: 1,0:21:25.93,0:21:33.10,Ending-English,,0,0,0,,{\fad(200,200)}{\k45}{\kf46}Do{\kf44}wn {\kf79}by {\kf58}the {\kf119}sa{\kf86}lley {\kf172}gar{\kf68}dens
+Dialogue: 1,0:21:25.93,0:21:33.10,Ending-English,,0,0,0,,{\fad(200,200)}{\k45}{\kf46}Do{\kf44}wn {\kf79}by {\kf58}the {\kf119}Sa{\kf86}lley {\kf172}Gar{\kf68}dens
 Dialogue: 1,0:21:33.10,0:21:39.56,Ending-English,,0,0,0,,{\fad(200,200)}{\kf96}My {\kf95}love {\kf90}and {\kf117}I {\kf89}did {\kf87}mee{\kf29}t
-Dialogue: 1,0:21:39.56,0:21:47.07,Ending-English,,0,0,0,,{\fad(200,200)}{\k42}{\kf104}She {\kf89}passed {\kf52}the {\kf126}sa{\kf90}lley {\kf170}gar{\kf78}dens
+Dialogue: 1,0:21:39.56,0:21:47.07,Ending-English,,0,0,0,,{\fad(200,200)}{\k42}{\kf104}She {\kf89}passed {\kf52}the {\kf126}Sa{\kf90}lley {\kf170}Gar{\kf78}dens
 Dialogue: 1,0:21:47.07,0:21:53.58,Ending-English,,0,0,0,,{\fad(200,200)}{\kf84}With {\kf96}li{\kf61}ttle {\kf23}s{\kf103}now{\k27}{\k0}-{\kf85}white {\kf147}feet
 Dialogue: 1,0:21:53.58,0:22:01.09,Ending-English,,0,0,0,,{\fad(200,200)}{\k34}{\kf106}She {\kf85}bid{\kf67} me {\kf74}take{\kf31} {\kf82}love {\kf183}ea{\kf89}sy
 Dialogue: 1,0:22:01.09,0:22:07.53,Ending-English,,0,0,0,,{\fad(200,200)}{\kf46}As {\kf24}the {\kf83}lea{\kf17}ves {\kf56}gro{\kf35}w {\kf83}on {\kf75}t{\kf60}he {\kf165}tree
@@ -379,7 +379,7 @@ Dialogue: 1,0:21:33.10,0:21:39.56,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf18
 Dialogue: 1,0:21:39.56,0:21:47.07,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf58}{\kf120}Во{\kf43}на {\kf101}і{\kf59}шла {\kf41}по {\kf84}са{\kf203}до{\kf54}чку
 Dialogue: 1,0:21:47.07,0:21:53.58,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf90}А {\kf107}ні{\kf102}женьки {\kf0}- {\kf106}на{\kf117}че {\kf101}сніг{\kf65}
 Dialogue: 1,0:21:53.58,0:22:01.09,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf146}"Люби {\kf139}мене {\kf181}милий, {\kf163}ле{\kf59}гко"
-Dialogue: 1,0:22:01.09,0:22:07.53,Ending-Ukrainian,,0,0,0,,{{\fad(200,200)}{\kf73}"Як {\kf88}ли{\kf30}сття {\kf91}на {\kf69}гі{\kf42}лці {\kf128}ро{\kf153}сте"
+Dialogue: 1,0:22:01.09,0:22:07.53,Ending-Ukrainian,,0,0,0,,{{\fad(200,200)}{\kf73}"Як {\kf88}ли{\kf30}стя {\kf91}на {\kf69}гі{\kf42}лці {\kf128}ро{\kf153}сте"
 Dialogue: 1,0:22:07.81,0:22:14.90,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf32}{\kf87}Я ж {\kf89}був {\kf167}молодий, {\kf88}неро{\kf158}зу{\kf67}мний{\kf29}
 Dialogue: 1,0:22:14.90,0:22:21.91,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf85}І {\kf80}"ні" {\kf187}сказав {\kf40}їй {\kf77}на {\kf231}те
 Dialogue: 1,0:22:35.48,0:22:42.79,Ending-Ukrainian,,0,0,0,,{\fad(200,200)}{\kf32}{\kf87}Я ж {\kf89}був {\kf167}молодий, {\kf88}неро{\kf158}зу{\kf67}мний{\kf29}
